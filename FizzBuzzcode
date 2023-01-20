@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main (void){
+  int counter=0;
+  
+  printf("counter is 0 ");
+  
+  
+  
+
+}
